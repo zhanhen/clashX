@@ -9,6 +9,6 @@
 	<string>localhost</string>
 	<string>*.local</string>
 	<string>*.crashlytics.com</string>
-	<string>my-custom-site.com</string>
+	<string>athena-devops-mockplus.digiwincloud.com.cn</string>
 </array>
 </plist>
